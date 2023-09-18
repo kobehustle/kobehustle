@@ -46,6 +46,9 @@ Here are some ideas to get you started:
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kobehustle&repo=ALY6110-Data-Management-and-Big-Data&theme=react" />
 </a>
 
+<a href="https://github.com/kobehustle/ALY6070-20685-Communicate-Visual-Data-Analysis-Tableau-">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kobehustle&repo=ALY6070-20685-Communicate-Visual-Data-Analysis-Tableau-&theme=react" />
+</a>
 
 
 
