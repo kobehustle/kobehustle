@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🎓 I have a purpose of learning behind everything I do! 
 
-####Want to know more about me? Below: Always welcome to meet in Linkedin#### <br>
+#### Want to know more about me? Below: Always welcome to meet in Linkedin <br>
 
 [	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejaeroh/)
 
