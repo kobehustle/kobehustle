@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> My name is Heejae (Jae) Roh.
 
-I'm a rising senior at Northeastern University studying Data Analytics. I was an Analysis report writer in the National Assembly of Republic of the Korea. I love to study how to interact and relate to others and make the best performance. When I meet people, I look at their strengths and apply what I can learn to my life.
+🚀 I'm a rising senior at Northeastern University studying Data Analytics. I was an Analysis report writer in the National Assembly of Republic of the Korea. I love to study how to interact and relate to others and make the best performance. When I meet people, I look at their strengths and apply what I can learn to my life.
+
+🎓 I have a purpose of learning behind everything I do! 
