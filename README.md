@@ -42,5 +42,9 @@ Here are some ideas to get you started:
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kobehustle&repo=ALY6040-81028-Data-Mining-Applications&theme=react" />
 </a>
 
+<a href="https://github.com/kobehustle/ALY6040-81028-Data-Mining-Applications">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kobehustle&repo=ALY6110-Data-Management-and-Big-Data&theme=react" />
+</a>
+
 
 
