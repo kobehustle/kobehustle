@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📌 Pinned Repositories
+<a href="https://github.com/kobehustle/ALY6040-81028-Data-Mining-Applications">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kobehustle&repo=ALY6040-81028-Data-Mining-Applications&theme=react" />
+</a>
 
 
 
