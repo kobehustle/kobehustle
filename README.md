@@ -1,3 +1,5 @@
+# Data Analyst / Data Scientist
+
 ### Hi there 👋
 
 <!--
@@ -18,3 +20,7 @@ Here are some ideas to get you started:
 🚀 I'm a rising senior at Northeastern University studying Data Analytics. I was an Analysis report writer in the National Assembly of Republic of the Korea. I love to study how to interact and relate to others and make the best performance. When I meet people, I look at their strengths and apply what I can learn to my life.
 
 🎓 I have a purpose of learning behind everything I do! 
+
+**Want to know more about me? Below: Always welcome to meet in Linkedin**
+
+
